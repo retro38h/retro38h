@@ -1,19 +1,12 @@
-<img align="right" src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" width="300">
-
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Initializing+system...;Access+granted.;Hello,+I'm+Antua.;Shutting+down+system...">
 </a>
 
-🦖**About me**🌎
+🦖 **About me** 🌎
+
+<img align="right" src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" width="250">
 
 I sense appreciation for what I do; personally, I lean more towards frontend development, building projects with PHP, Oracle, and exploring the world of Python.
-
-
-
-
-
-
-
 
 <h4> Languages </h4>
 <span> 
@@ -36,12 +29,11 @@ I sense appreciation for what I do; personally, I lean more towards frontend dev
 
 <h4> IDE </h4>
 <span>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+</span>
 
 <h4> Other Tools and Technologies </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
-
 </span>
