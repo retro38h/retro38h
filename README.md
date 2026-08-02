@@ -32,6 +32,7 @@ I sense appreciation for what I do; personally, I lean more towards frontend dev
 <h4> IDE </h4>
 <span>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-265896?style=for-the-badge&logo=Docker&logoColor=white">
 </span>
 
 <h4> Other Tools and Technologies </h4>
